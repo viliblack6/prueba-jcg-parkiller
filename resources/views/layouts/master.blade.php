@@ -8,8 +8,8 @@
 	<link rel="stylesheet" href="{{ asset('css/app.css') }}">
 	<link rel="stylesheet" href="{{ asset('css/main.css') }}">
 	-->
-	<link rel="stylesheet" href="http://prueba-jcg-parkiller.herokuapp.com/css/app.css">
-	<link rel="stylesheet" href="http://prueba-jcg-parkiller.herokuapp.com/css/main.css">
+	<link rel="stylesheet" href="https://prueba-jcg-parkiller.herokuapp.com/css/app.css">
+	<link rel="stylesheet" href="https://prueba-jcg-parkiller.herokuapp.com/css/main.css">
 </head>
 <body>
 	@yield('content')
@@ -22,11 +22,11 @@
 	<script src="{{ asset('js/script.js') }}"></script>
 	<script src="{{ asset('js/urchin.js') }}"></script>
 	-->
-	<script src="http://prueba-jcg-parkiller.herokuapp.com/js/jquery.min.js"></script>
-	<script src="http://prueba-jcg-parkiller.herokuapp.com/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-	<script src="http://prueba-jcg-parkiller.herokuapp.com/js/v3_epoly.js"></script>
-	<script src="http://prueba-jcg-parkiller.herokuapp.com/js/script.js"></script>
-	<script src="http://prueba-jcg-parkiller.herokuapp.com/js/urchin.js"></script>
+	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/jquery.min.js"></script>
+	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/v3_epoly.js"></script>
+	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/script.js"></script>
+	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/urchin.js"></script>
 </body>
 </html>

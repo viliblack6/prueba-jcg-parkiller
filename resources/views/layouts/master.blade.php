@@ -26,7 +26,7 @@
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHOQKjk1460S1OpbA1i12N8zs2--nTV1k&signed_in=true" async defer></script>
 	<!--<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>-->
 	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/v3_epoly.js"></script>
-	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/script.js"></script>
 	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/urchin.js"></script>
+	<script src="https://prueba-jcg-parkiller.herokuapp.com/js/script.js"></script>
 </body>
 </html>
